@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Sistema cardiovascular '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ramon Ivan
+    family-names: Morales Diaz
+    email: L24210589@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/l24210589-ops/MSFP2'
+keywords:
+  - circuito RLC
+  - controlador PID
+  - mecánica pulmonar
+  - modelado de sistemas fisiológicos
+  - MATLAB
+  - Simulink
+  - Simscape Electrical
+  - ' Python'
+  - simulación *in silico*
+  - instrumentación electrónica
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-10-21'
